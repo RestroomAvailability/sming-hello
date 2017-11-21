@@ -36,7 +36,7 @@ NetBean as a IDE
 
 6. run `flash.sh` to flash the firmware to the device
 
-7. Now run `screen /dev/tty.wchusbserial14510 115200` ,you should be able to see the debug message
+7. Now run `screen.sh` ,you should be able to see the debug message
 
    ​
 
